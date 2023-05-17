@@ -1,0 +1,8 @@
+.ResultLabel {
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+}
+.calendar {
+    -fx-border-top-left-radius: 10px;
+    -fx-border-top-right-radius: 10px;
+}
